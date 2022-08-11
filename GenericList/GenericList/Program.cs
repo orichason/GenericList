@@ -1,14 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using GenericList;
 
-namespace GenericList
+namespace GenericShoppingList
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            l
+            GenericList<int> NewList = new GenericList<int>();
+
+
+            NewList.InsertItem(5);
+
+            ;
         }
     }
 }

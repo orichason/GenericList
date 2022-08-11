@@ -1,8 +1,20 @@
 ﻿<Properties StartupConfiguration="{83686EDB-178F-4DBD-84A3-91C3EDD57EE0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GenericList/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericList/GenericList.cs">
     <Files>
-      <File FileName="GenericList/Program.cs" Line="30" Column="1" />
+      <File FileName="GenericList/Program.cs" Line="11" Column="11" />
+      <File FileName="GenericList/GenericList.cs" Line="6" Column="11" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenericList" expanded="True">
+            <Node name="GenericList" expanded="True">
+              <Node name="GenericList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.GenericList FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />

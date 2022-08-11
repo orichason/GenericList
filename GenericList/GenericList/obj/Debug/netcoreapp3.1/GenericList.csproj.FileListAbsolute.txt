@@ -1,0 +1,13 @@
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.csproj.AssemblyReference.cache
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.AssemblyInfoInputs.cache
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.AssemblyInfo.cs
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.csproj.CoreCompileInputs.cache
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.deps.json
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.runtimeconfig.json
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.runtimeconfig.dev.json
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.dll
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/bin/Debug/netcoreapp3.1/GenericList.pdb
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.dll
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.pdb
+/Users/orichason/Desktop/DataStructures/GenericList/GenericList/GenericList/obj/Debug/netcoreapp3.1/GenericList.genruntimeconfig.cache
